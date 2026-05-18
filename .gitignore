@@ -1,5 +1,6 @@
 # ignored folders
 /data
+/dataset
 experiments
 results
 tb_logger
